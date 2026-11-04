@@ -8,6 +8,7 @@ public class Calculator {
         Scanner input = new Scanner(System.in);
         
         System.out.println("Welcome to SCD Lab 01!");
+        System.out.println("Welcome to SCD Lab 01 - Merge Operation!");
         
         System.out.println("===== SIMPLE CALCULATOR =====");
 
